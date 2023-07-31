@@ -7,7 +7,7 @@
 
 - 👨‍💻 Todos meus projetos estão disponíveis em [https://f509-2804-1998-416-c200-4485-f346-5fbf-2822.sa.ngrok.io/meus_projetos/](https://f509-2804-1998-416-c200-4485-f346-5fbf-2822.sa.ngrok.io/meus_projetos/)
 
-- 💬 Não sou o melhor mas posso ajudar com **HTML / CSS3 / PHP**
+- 💬 Não sou o melhor mas posso ajudar com **HTML / CSS3 / PHP / PYTHON**
 
 - 📫 Entre em contato comigo via e-mail: **willsierro@gmail.com**
 
